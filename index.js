@@ -10,4 +10,6 @@ class Tree{
   }
 }
 
-class 
+class Deciduous extends Tree{
+  constructor()
+}
