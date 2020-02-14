@@ -17,6 +17,6 @@ class Deciduous extends Tree{
   }
   
   static definition(){
-    super.definition
+    super.definition+ 
   }
 }
